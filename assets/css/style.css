@@ -1,0 +1,18 @@
+footer {
+    background: url('../imagens/bg.png');
+    text-align: center;
+    padding-bottom: 1px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+footer >  img {
+    height: 230px;
+}
+
+footer > p {
+    color: #fff;
+    font-size: 10px;
+}
